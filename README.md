@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with landing an awesome job in tech.
 - 💬 Ask me about my current work playlists.
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: he/him
+- 😄 My Favorite Tool: Simplify Jobs and Claude AI
 - ⚡ Fun fact: I've traveled to Peru, China, Barcelona, and Italy. I miss Italy.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/669c7f289a21cb3c687c4777?variant=dark" alt="roadmap.sh"/></a>
