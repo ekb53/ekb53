@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on an AI Tax Tool using open-source datasets & public APIs built on an LLM RAG Architecture. Check it out here: https://github.com/ekb53/s-corpion
-- 🌱 I’m currently learning Powershell, Linux, Python, and Docker. I can't stop learning!
+- 🌱 I’m currently learning N8n, Linux, Python, and Docker. I can't stop learning!
 - 👯 I’m looking to collaborate on cool AI projects.
 - 🤔 I’m looking for help with landing an awesome job in tech.
 - 💬 Ask me about my current work playlists.
